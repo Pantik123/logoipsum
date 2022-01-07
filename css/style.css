@@ -87,7 +87,7 @@ h6 {
 }
 
 @font-face {
-  font-family: "DMSans-Regular";
+  font-family: "DMSans";
   font-display: swap;
   src: url("../fonts/DMSans-Regular.woff") format("woff"), url("../fonts/DMSans-Regular.woff2") format("woff2");
   font-weight: 400;
@@ -95,7 +95,7 @@ h6 {
 }
 
 @font-face {
-  font-family: "Mulish-Regular";
+  font-family: "Mulish";
   font-display: swap;
   src: url("../fonts/Mulish-Regular.woff") format("woff"), url("../fonts/Mulish-Regular.woff2") format("woff2");
   font-weight: 400;
@@ -103,10 +103,10 @@ h6 {
 }
 
 @font-face {
-  font-family: "DMSans-Bold";
+  font-family: "DMSans";
   font-display: swap;
   src: url("../fonts/DMSans-Bold.woff") format("woff"), url("../fonts/DMSans-Bold.woff2") format("woff2");
-  font-weight: 400;
+  font-weight: 700;
   font-style: normal;
 }
 
