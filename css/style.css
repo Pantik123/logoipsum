@@ -87,7 +87,7 @@ h6 {
 }
 
 @font-face {
-  font-family: "DMSans";
+  font-family: "DM Sans";
   font-display: swap;
   src: url("../fonts/DMSans-Regular.woff") format("woff"), url("../fonts/DMSans-Regular.woff2") format("woff2");
   font-weight: 400;
@@ -103,7 +103,7 @@ h6 {
 }
 
 @font-face {
-  font-family: "DMSans";
+  font-family: "DMS ans";
   font-display: swap;
   src: url("../fonts/DMSans-Bold.woff") format("woff"), url("../fonts/DMSans-Bold.woff2") format("woff2");
   font-weight: 700;
